@@ -1,0 +1,13 @@
+numpy>=1.13
+pyyaml==3.13
+matplotlib
+opencv-python>=3.2
+setuptools
+Cython
+mock
+scipy
+six
+future
+protobuf
+tqdm
+requests
