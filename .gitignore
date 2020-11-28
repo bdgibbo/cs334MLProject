@@ -30,7 +30,6 @@ dist/
 .idea
 
 # project dirs
-/detectron2/model_zoo/configs
 detectron/datasets/data/gun/
 /models
 detectron/utils/
