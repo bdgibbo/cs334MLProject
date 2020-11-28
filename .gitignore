@@ -31,5 +31,5 @@ dist/
 
 # project dirs
 /detectron2/model_zoo/configs
-/datasets
+detectron/datasets/data/gun/
 /models
