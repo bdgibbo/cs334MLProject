@@ -7,7 +7,7 @@ __pycache__
 _ext
 *.pyc
 *.so
-detectron2.egg-info/
+Detectron.egg-info/
 build/
 dist/
 
