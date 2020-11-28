@@ -12,24 +12,12 @@ build/
 dist/
 
 # pytorch/python/numpy formats
-*.pth
 *.pkl
-*.npy
-
-# ipython/jupyter notebooks
-*.ipynb
-**/.ipynb_checkpoints/
-
-# Editor temporaries
-*.swn
-*.swo
-*.swp
-*~
 
 # Pycharm editor settings
 .idea
 
 # project dirs
 detectron/datasets/data/gun/
-/models
 detectron/utils/
+scripts/
