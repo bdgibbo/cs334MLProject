@@ -1,4 +1,4 @@
-
+Cloned from edgecase-ai/Detectron-Using-Synthetic-Data
 
 # Gun-Detection-With-Racial-Bias-Assessment
 This is an example of how synthetic data can increase quality of object detection and classification.
